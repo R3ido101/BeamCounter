@@ -1,1 +1,14 @@
 C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Debug\BeamCounter.exe.config
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Debug\BeamCounter.exe
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Debug\BeamCounter.pdb
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\MainWindow.g.cs
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\App.g.cs
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter_MarkupCompile.cache
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter_MarkupCompile.lref
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\MainWindow.baml
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.g.resources
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.Properties.Resources.resources
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.csproj.GenerateResource.Cache
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.exe
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Debug\BeamCounter.pdb

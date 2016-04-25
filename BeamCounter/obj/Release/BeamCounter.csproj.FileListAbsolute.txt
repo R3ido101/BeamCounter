@@ -1,0 +1,13 @@
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Release\BeamCounter.exe.config
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Release\BeamCounter.exe
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\bin\Release\BeamCounter.pdb
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\MainWindow.g.cs
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\App.g.cs
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter_MarkupCompile.cache
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter_MarkupCompile.lref
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\MainWindow.baml
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter.g.resources
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter.Properties.Resources.resources
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter.csproj.GenerateResource.Cache
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter.exe
+C:\Users\Oliver\Source\Repos\BeamCounter\BeamCounter\obj\Release\BeamCounter.pdb
